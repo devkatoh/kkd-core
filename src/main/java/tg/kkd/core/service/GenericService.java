@@ -1,6 +1,6 @@
 package tg.kkd.core.service;
 
-import tg.lt.utilities.exceptions.CustomException;
+import tg.kkd.core.exception.CustomException;
 
 import java.util.List;
 
