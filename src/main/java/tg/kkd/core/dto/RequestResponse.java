@@ -1,4 +1,4 @@
-package tg.lt.utilities.classes;
+package tg.kkd.core.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,8 +1,9 @@
-package tg.lt.utilities.interfaces;
+package tg.kkd.core.controller;
 
-import tg.lt.utilities.exceptions.CustomException;
 
-public interface GenericControllerInterface<T, S, ID>{
+import tg.kkd.core.exception.CustomException;
+
+public interface GenericController<T, S, ID>{
 
     public S save(T t) throws CustomException;
 

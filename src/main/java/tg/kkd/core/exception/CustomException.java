@@ -1,4 +1,4 @@
-package tg.lt.utilities.exceptions;
+package tg.kkd.core.exception;
 
 public class CustomException extends Exception{
 

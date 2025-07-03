@@ -1,4 +1,4 @@
-package tg.lt.utilities.classes;
+package tg.kkd.core.utils;
 
 public class Messages {
 

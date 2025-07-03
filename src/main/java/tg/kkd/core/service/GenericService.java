@@ -1,11 +1,10 @@
-package tg.lt.utilities.interfaces;
+package tg.kkd.core.service;
 
-import tg.lt.entities.users.Supervisor;
 import tg.lt.utilities.exceptions.CustomException;
 
 import java.util.List;
 
-public interface GenericInterface <T, ID>{
+public interface GenericService<T, ID>{
 
     public T save(T t) throws CustomException;
 

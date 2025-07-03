@@ -1,4 +1,4 @@
-package tg.lt.utilities.classes;
+package tg.kkd.core.utils;
 import java.security.SecureRandom;
 import java.util.Random;
 
