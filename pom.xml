@@ -8,14 +8,17 @@
 		<version>3.5.3</version>
 		<relativePath/>
 	</parent>
-	<groupId>tg.kkd</groupId>
-	<artifactId>core</artifactId>
-	<version>0.0.1</version>
+
+	<groupId>com.github.devkatoh</groupId>
+	<artifactId>kkd-core</artifactId>
+	<version>0.0.2</version>
 	<name>core</name>
 	<description>KKD Projects Core</description>
+
 	<properties>
 		<java.version>21</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
